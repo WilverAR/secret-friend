@@ -48,14 +48,10 @@ Handles the logic for managing friends and drawing a secret friend.
 2. **View the friend list**: Click "View List" to see the names.
 3. **Draw a secret friend**: Click "Draw" to randomly select a name.
 
-## Contributing 🤝
-Feel free to contribute by submitting pull requests. Please ensure that your changes follow best coding practices and include proper documentation.
-
 ## License 📜
 This project is licensed under the **MIT License**.
 
 ## Contact 📧
-For questions or contributions, reach out via:
 - **GitHub**: [WilverAR](https://github.com/WilverAR)
 - **Email**: wilver.ar.dev@gmail.com
 
